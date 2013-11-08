@@ -1,0 +1,10 @@
+Unlock-QADUser : Zugriff verweigert
+
+Bei C:\xampp\htdocs\active\test.ps1:12 Zeichen:15
++ Unlock-QADUser <<<<  $param1 
+    + CategoryInfo          : NotSpecified: (:) [U
+nlock-QADUser], Unauthorized    AccessException
+    + FullyQualifiedErrorId : System.UnauthorizedA
+ccessException,Quest.ActiveR    oles.ArsPowerShell
+SnapIn.Powershell.Cmdlets.UnlockUserCmdlet
+ 

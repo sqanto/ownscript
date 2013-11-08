@@ -1,0 +1,5 @@
+Order Deny,Allow
+AuthUserFile C:\xampp\htdocs\active\.htpasswd
+AuthType basic
+Authname "Cl"
+require user sommer
